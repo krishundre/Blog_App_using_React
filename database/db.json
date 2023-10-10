@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "How to Become a Front End Developer?",
+      "body": "Step 01: Learn front-end development\nStep 02: Start building real projects\nStep 03: Build your Profile\nStep 04: Apply for a front end development job or internship/Start offering your services as a freelance front end developer\nStep 05 - Learn more technologies and tools\nConclusion\nNote down that web development is an ever-evolving career avenue that demands continuous growth and expansion of one’s knowledge and skillset. So, keep doing to get better. Don’t forget to share your success story with our community. We’d love to hear it from you. All the best!\n",
+      "author": "Akshat Jain",
+      "id": 2
+    },
+    {
+      "title": "temp",
+      "body": "hello guys",
+      "author": "krish",
+      "id": 3
+    }
+  ]
+}
